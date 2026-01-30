@@ -39,9 +39,9 @@ This project was created to practice Python fundamentals such as file handling, 
 1. Make sure Python 3 is installed on your system.
 
 2. Clone the repository:
-   ```bash
-   git clone https://github.com/USERNAME/student-information-system.git
-   ```
+```bash
+git clone https://github.com/USERNAME/student-information-system.git
+```
    
 3. Navigate to the project directory:
  ```bash
